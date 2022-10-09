@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: local('Grtsk Giga Bold'), local('Grtsk-Giga-Bold'),
+        url('../font/GrtskGiga-Bold.woff2') format('woff2'),
+        url('../font/GrtskGiga-Bold.woff') format('woff'),
+        url('../font/GrtskGiga-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: local('Grtsk Giga Semibold'), local('Grtsk-Giga-Semibold'),
+        url('../font/GrtskGiga-Semibold.woff2') format('woff2'),
+        url('../font/GrtskGiga-Semibold.woff') format('woff'),
+        url('../font/GrtskGiga-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: local('Grtsk Giga Bold Italic'), local('Grtsk-Giga-Bold-Italic'),
+        url('../font/GrtskGiga-BoldItalic.woff2') format('woff2'),
+        url('../font/GrtskGiga-BoldItalic.woff') format('woff'),
+        url('../font/GrtskGiga-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}

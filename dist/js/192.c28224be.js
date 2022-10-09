@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktestvue"]=self["webpackChunktestvue"]||[]).push([[192],{8192:function(e,t,n){n.r(t),n.d(t,{default:function(){return f}});var u=n(3396);function r(e,t,n,r,a,s){return(0,u.wg)(),(0,u.iD)("h1",null,"What?")}var a={name:"WhatView"},s=n(89);const c=(0,s.Z)(a,[["render",r]]);var f=c}}]);
+//# sourceMappingURL=192.c28224be.js.map
